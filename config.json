@@ -1,0 +1,7 @@
+{
+  "model_name": "gemini-1.5-flash",
+  "embed_model": "models/text-embedding-004",
+  "google_ai_api_key": "<GOOGLE_AI_API_KEY>",
+  "langchain_endpoint": "https://api.smith.langchain.com",
+  "langchain_key": "<your langchain key>"
+}
